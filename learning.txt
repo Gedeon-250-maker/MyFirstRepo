@@ -1,1 +1,2 @@
-Added learning.txt with course reflection
+What I have learned from this course
+I have learned about fundamental Git commands like cloning, adding, committing, and pushing. I also understand how to collaborate using pull requests and work with online environments like GitHub Codespaces.
